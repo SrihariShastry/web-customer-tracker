@@ -1,13 +1,13 @@
-package com.example.webcustomertracker;
+package com.project.crmsolution;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebCustomerTrackerApplication {
+public class CrmsolutionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebCustomerTrackerApplication.class, args);
+		SpringApplication.run(CrmsolutionApplication.class, args);
 	}
 
 }
